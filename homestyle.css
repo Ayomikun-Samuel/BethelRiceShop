@@ -1,0 +1,77 @@
+body {
+	background-image: url(come.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	color: black;
+	margin: 0;
+	margin-top: 0;
+	font-family: cursive;
+	font-size: 150%;
+		}
+   table {
+	background-color: black;
+		}
+   nav a:hover {
+	background-color: rgb(255, 255, 255, 0.4);
+
+		}
+   nav a {
+	color: white;
+	text-decoration: none;
+	margin-left: 5%;
+	font-size: 110%;
+	font-family: fantasy;
+	padding-left: 20px;
+	padding-right: 20px;
+		}
+   nav {
+	text-align: center;
+	border-bottom: 5px solid rgb(0, 0, 0, 1.0);
+	border-color: white;
+		}
+   div header h1 {
+	margin: 0;
+	text-align: center;
+	color: white;
+		}
+   header {
+	padding: 20px 5%;
+	background-color: black;
+		}
+   #AboutBFS {
+	background: rgb(255,253,208,0.6);
+	border-radius:20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 7px;
+	padding-bottom: 180px;
+	margin-top: 90px;
+		}
+   footer {
+	background-color: black;
+	color: white;
+		}
+   footer p {
+	margin: 0;
+		}
+   #OurMenu {
+	background: rgb(255,253,208,0.6);
+    border-radius: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 7px;
+	padding-bottom: 15px;
+	margin-top: 200px;
+	margin-bottom: 50px;
+		}
+   figure {
+	float: left;
+	margin-left: 0.5%;
+	margin-right: 3%;
+	border-radius: 50%;
+	margin-bottom: 0.1%;
+		}
+   img {
+	border-radius: 50%;
+		}
